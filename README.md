@@ -1,5 +1,9 @@
 # logistic-regression
-Build a model for logistic regression.
+
+### Please use the link provided in github to view the file with the external viewer *nbviewer*
+
+This algorithm builds a model for logistic regression.
+
 This model creates a dataset as follow :
 
 (1, x1), (1, x2), ..., (1, xn)
